@@ -1,3 +1,4 @@
+#! /bin/bash
 # 安装jenkins
 # 1、配置源
 wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
