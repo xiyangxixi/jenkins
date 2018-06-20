@@ -1,0 +1,3 @@
+# 处理在jenkins中部署tomcat时，服务启动后自动停止的问题
+# 参考https://blog.csdn.net/hwhua1986/article/details/50789610
+解决办法：在系统设置--管理节点中添加BUILD_ID=DontKillMe
